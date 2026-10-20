@@ -1,16 +1,26 @@
 ## Hi there 👋
+# Hi 👋, Saya Siew Ming En
 
-<!--
-**siewmingen/siewmingen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Mengenai Saya
+- 🔭 Saya kini sedang belajar **Pembangunan Perisian / Web Development**
+- 🌱 Saya sedang mengasah kemahiran dalam **HTML, CSS, JavaScript, dan Git/GitHub**
+- 🎯 Matlamat saya: Membina projek perisian yang berguna dan menyumbang kepada *open source*
+- 💬 Tanya saya mengenai: **Asas Pemrograman / Web Development**
+- 📫 Cara menghubungi saya: **siewmingen@graduate.utm.my**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Kemahiran & Alatan (Tools)
+- **Bahasa Pemrograman:** HTML, CSS, JavaScript
+- **Alatan Pembangunan:** Git, GitHub, VS Code
+
+---
+
+### 📊 Statistik GitHub
+![Siew Ming En's GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=radial)
+
+---
+
+### 🔗 Hubungi Saya
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
